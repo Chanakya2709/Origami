@@ -1,0 +1,26 @@
+head{
+    text-align: center;
+    background-color: aquamarine;
+}
+body{
+    text-align:center;
+    
+}
+.line{
+    line-height: 10px;
+    outline-color:black;
+    
+}
+.Crane{
+    background-color:darkcyan;
+    align-items: center;
+    text-align: center;
+}
+.tulipflower{
+    background-color:fuchsia;
+    align-items: center;
+    text-align: center;
+}
+html{
+    background-color:lightcyan;
+}
